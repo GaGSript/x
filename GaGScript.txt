@@ -1,7 +1,6 @@
 local function start()
-
-ID="ce365859-0606-4651-bf8c-00f7153521f1";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+  ID="ce365859-0606-4651-bf8c-00f7153521f1";
+  loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 
 end
 
