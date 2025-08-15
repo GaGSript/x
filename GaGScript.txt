@@ -1,4 +1,4 @@
 ID="ce365859-0606-4651-bf8c-00f7153521f1";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 wait(1)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GaGSript/x/refs/heads/main/GagScript", true))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GaGSript/x/refs/heads/main/GagScript.txt", true))
