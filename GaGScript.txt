@@ -1,4 +1,14 @@
+local function start()
+
 ID="ce365859-0606-4651-bf8c-00f7153521f1";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
-wait(1)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GaGSript/x/refs/heads/main/GagScript.txt", true))
+
+end
+
+local function loadui()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9")
+
+end
+
+task.spawn(start)
+task.spawn(loadui)
